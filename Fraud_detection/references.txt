@@ -1,0 +1,6 @@
+https://github.com/joeqcao/vae-fraud-detection
+
+https://github.com/YingtongDou/CARE-GNN
+https://github.com/dmlc/dgl/tree/master/examples
+
+https://github.com/a-agmon/anomaly_det/blob/master/AnomalyDetectorsVAE-KDD-original.ipynb
